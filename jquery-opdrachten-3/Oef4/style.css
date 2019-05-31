@@ -1,0 +1,12 @@
+div {
+  background-color: black;
+  display: block;
+  width: 100px;
+  height: 10px;
+  margin: 50px
+}
+
+button {
+  display: block;
+  margin: 5px
+}
